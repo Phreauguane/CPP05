@@ -1,4 +1,4 @@
-NAME	=	bureaucrat
+NAME	=	form
 
 CPP		=	c++ -Wall -Wextra -Werror -std=c++98
 
